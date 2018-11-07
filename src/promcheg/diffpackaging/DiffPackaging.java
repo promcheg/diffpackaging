@@ -1,4 +1,4 @@
-package com.idemtelematics.diffpackaging;
+package promcheg.diffpackaging;
 
 import java.io.File;
 import java.util.ArrayList;
